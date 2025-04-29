@@ -134,3 +134,8 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+# vsc extension
+*.vsix
+vsc-extension-quickstart.md
+.vscode/settings.json

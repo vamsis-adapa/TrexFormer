@@ -27,7 +27,6 @@
     "lint": "eslint src",
     "test": "vscode-test",
     "prettier-format": "prettier --write 'src/**/*.js'",
-    "prettier-watch": "onchange \"**/*\" -- prettier --write --ignore-unknown {{changed}}",
     "prepare": "husky"
   },
   "devDependencies": {
